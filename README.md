@@ -1,16 +1,8 @@
 # favorite_places
 
-A new Flutter project.
+Flutter project.
 
-## Getting Started
+# Used technologies: Uuid, Flutter riverpod, Image_picker (from smartphone’s Camera), Location, http, Json_annotation, Google_maps_flutter, Path_provider, Path, Sqflite, FutureBuilder, Future, File.
 
-This project is a starting point for a Flutter application.
+The user can take photo from the smartphone’s camera of the place, receive location of the place, snap short from GoogleMap, check the position of the place on the GoogleMap. Than the user can save the place in the ListWidget of the places. All new places are saved in SQLite table, image of places are saved in the smartphone.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
