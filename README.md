@@ -1,6 +1,6 @@
-# favorite_places
+# Favorite Places
 
-Flutter project.
+# Flutter project.
 
 # Used technologies: Uuid, Flutter riverpod, Image_picker (from smartphone’s Camera), Location, http, Json_annotation, Google_maps_flutter, Path_provider, Path, Sqflite, FutureBuilder, Future, File.
 
