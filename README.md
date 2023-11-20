@@ -20,3 +20,7 @@ The user can take photo from the smartphone’s camera of the place, receive loc
 
 ![Picture_4](https://github.com/VasylDvorak/favorite_places/assets/106032465/94a47a50-a9fb-4a2a-b0bd-afdfc6cc1184)
 
+
+![Picture_5](https://github.com/VasylDvorak/favorite_places/assets/106032465/e4673191-8b96-4c5e-8336-a2e183826213)
+
+
