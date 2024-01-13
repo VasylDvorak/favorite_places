@@ -3,7 +3,7 @@
 # ListWidget of the places. All new places are saved in SQLite table, image of places are saved in the smartphone.
 # Flutter project.
 
-# Used technologies: Uuid, Flutter riverpod, Image_picker (from smartphone’s Camera), Location, http, Json_annotation, Google_maps_flutter, Path_provider, Path, Sqflite, FutureBuilder, Future, File.
+# Used technologies: Uuid, Flutter riverpod, Image_picker (from smartphone’s Camera), Location, http, Json_annotation, Google_maps_flutter, Path_provider, Path, SQLite, FutureBuilder, Future, File.
 
 
 
